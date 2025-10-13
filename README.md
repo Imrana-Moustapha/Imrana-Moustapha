@@ -24,15 +24,7 @@ Développeur passionné axé sur la création d'applications web innovantes, l'e
 
 - Frameworks & Technologies : ![Laravel](https://img.shields.io/badge/Laravel-EF3F3F?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 - Intelligence Artificielle & Machine Learning : apprentissage supervisé, réseaux de neurones, traitement de données
-- Outils : Git, Docker, CI/CD, APIs RESTful
-
----
-
-### 🚀 Projets Highlights
-
-- Création d'applications web responsive avec une forte emphase sur l'UX/UI.
-- Contributions régulières à des bibliothèques open-source liées à la communauté web.
-- Expérimentations autour d'algorithmes d'intelligence artificielle appliqués au web.
+- Outils : Git, Docker, APIs RESTful
 
 ---
 

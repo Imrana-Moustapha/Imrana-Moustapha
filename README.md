@@ -14,7 +14,7 @@
 </div>
 
 - 👀 **Intérêts** : développement d'applications web innovantes, intelligence artificielle, open-source, DevOps
-- 🌱 **Actuellement en apprentissage** : techniques de machine learning avancées, **Laravel**, **Django**, **Spring Boot**
+- 🌱 **Actuellement en apprentissage** : techniques de machine learning avancées, **Laravel**, **Flutter & Dart**, **Spring Boot**
 - 💞️ **Ouvert à collaborer** sur des projets passionnants, surtout ceux qui visent à créer des interfaces utilisateurs intuitives
 - 🎯 **Objectif 2025** : Maîtriser l'orchestration de conteneurs et contribuer à des projets open-source majeurs
 

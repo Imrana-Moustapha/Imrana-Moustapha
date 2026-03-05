@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🎯 **Développeur Full-Stack & Passionné d'IA**  
+🎯 **Développeur BackEnd & Passionné d'IA**  
 *Créateur de solutions digitales innovantes*
 
 </div>

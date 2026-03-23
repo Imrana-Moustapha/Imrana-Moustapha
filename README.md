@@ -1,19 +1,27 @@
-# Salut, je suis @Imrana-Moustapha
+# 👋 Salut, je suis @Imrana-Moustapha
 
-**Développeur passionné axé sur la création d'applications web innovantes, l'exploration de l'intelligence artificielle, et la contribution aux projets open-source.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Développeur+BackEnd;Passionné+d'IA;Créateur+de+solutions+digitales" alt="Typing SVG" />
+</p>
 
 ---
 
-## À propos de moi
+### À propos de moi
+Développeur passionné axé sur la création d'applications web innovantes et l'exploration de l'intelligence artificielle. J'aime transformer des idées complexes en solutions digitales fluides et performantes.
 
-<div>
+* Basé à : Niamey, Niger
+* Focus : BackEnd & Architecture logicielle
+* Intérêts : IA, Open-Source, DevOps & Expérience Utilisateur (UX)
 
-**Développeur BackEnd & Passionné d'IA**  
-*Créateur de solutions digitales innovantes*
+---
 
-</div>
+### Stack Technique & Apprentissage
 
-- **Intérêts** : développement d'applications web innovantes, intelligence artificielle, open-source, DevOps
-- **Actuellement en apprentissage** : **Laravel**, **Flutter & Dart**, **Spring Boot**
-- **Ouvert à collaborer** sur des projets passionnants, surtout ceux qui visent à créer des interfaces utilisateurs intuitives
-- **Objectif 2025** : Maîtriser l'orchestration de conteneurs et contribuer à des projets open-source majeurs
+| Domaine | Technologies |
+| :--- | :--- |
+| **BackEnd** | NestJS, Spring Boot, Laravel |
+| **Mobile** | Flutter & Dart |
+| **DevOps** | Docker, Orchestration (Objectif 2025 🎯) |
+| **Outils** | Git, Postman, Swagger |
+
+Je suis ouvert à collaborer sur des projets passionnants, surtout ceux qui visent à créer des interfaces utilisateurs intuitives ou des architectures BackEnd robustes.

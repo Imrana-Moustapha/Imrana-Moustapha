@@ -1,9 +1,5 @@
 # 👋 Salut, je suis @Imrana-Moustapha
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Développeur+BackEnd;Passionné+d'IA;Créateur+de+solutions+digitales" alt="Typing SVG" />
-</p>
-
 ---
 
 ### À propos de moi

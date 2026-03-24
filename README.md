@@ -1,4 +1,4 @@
-# 👋 Salut, je suis @Imrana-Moustapha
+# 👋 Salut, je suis Imrana-Moustapha
 
 ---
 
@@ -17,7 +17,7 @@ Développeur passionné axé sur la création d'applications web innovantes et l
 | :--- | :--- |
 | **BackEnd** | NestJS, Spring Boot, Laravel |
 | **Mobile** | Flutter & Dart |
-| **DevOps** | Docker, Orchestration (Objectif 2025 🎯) |
+| **DevOps** | Docker, Orchestration (Objectif) |
 | **Outils** | Git, Postman, Swagger |
 
 Je suis ouvert à collaborer sur des projets passionnants, surtout ceux qui visent à créer des interfaces utilisateurs intuitives ou des architectures BackEnd robustes.

@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Imrana-Moustapha
+# Salut 👋, je suis Imrana-Moustapha
 
 ---
 
